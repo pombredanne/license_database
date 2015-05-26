@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: license_database_development
+  pool: 5
+  username: Andrey
+  password:
